@@ -1,10 +1,19 @@
+# Para o desafio foi utilizado duas frases sobre atendimento de uma recepção de hotel
 
-"Que dia maravilhoso! O sol brilha intensamente, o ar está fresco e as flores desabrocham. É impossível não sorrir diante de tamanha beleza."
+### "O atendimento na recepção do hotel foi excepcional, com uma equipe atenciosa e prestativa, pronta para atender às nossas necessidades e proporcionar uma experiência acolhedora desde o momento do check-in."
 
-"A conquista de um objetivo é como uma dança de celebração. Cada passo dado é uma vitória, cada obstáculo superado nos fortalece. Hoje, sinto-me invencível!"
+### "Infelizmente, o atendimento na recepção deixou a desejar, com longas filas e falta de eficiência por parte da equipe, o que comprometeu a nossa experiência inicial no hotel."
 
-"O amor é a luz que ilumina nossos caminhos mais escuros. Cada momento ao lado da pessoa amada é um presente valioso, capaz de encher o coração de alegria e gratidão."
+# O resultado segue nas imagens abaixo
 
-"A solidão é como um vazio que consome a alma. As paredes do meu quarto parecem sufocantes, enquanto a ausência de vozes ecoa pela minha mente, lembrando-me da falta de companhia."
+## Sentimento analisado
+![sentimento analisado](https://github.com/1709971/desafioLanguageStudio/assets/80554521/44da32b6-9d6b-4c10-97f9-7ffd9c34470c)
 
-"A tristeza é como uma tempestade que desaba sobre mim, inundando meu ser de desânimo e melancolia. Tento encontrar abrigo sob um manto de esperança, mas as nuvens escuras persistem em bloquear qualquer raio de luz.
+## Primeira sentença
+![primeira sentença](https://github.com/1709971/desafioLanguageStudio/assets/80554521/c7375495-0709-44c9-b1f3-d84327089a15)
+
+## Segunda sentença
+![segunda sentença](https://github.com/1709971/desafioLanguageStudio/assets/80554521/d559ee0b-bb66-4ba8-a545-829753c80785)
+
+## Texto original
+![texto original](https://github.com/1709971/desafioLanguageStudio/assets/80554521/83ff5cc2-9ede-4655-bbd6-03876a7ba015)
